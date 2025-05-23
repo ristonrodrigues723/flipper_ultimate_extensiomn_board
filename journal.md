@@ -11,6 +11,8 @@ so i just finished my reserch and yes creating dev boaf that lets me do everythi
 so aftr a week or reserching found out that the cmponents needed cn be bought in india just not sure of id the vendoe will allow hcb, india secific problem
 seed studio still ships cheap pcb to india so its good thst i can get the pcb made (already done 5-6 pcb in diff hackclub programs).
 
-created the bom , serched for parts and vendors and the total comes out to be under 40$ so its good
+created the bom , serched for parts and vendors and the total comes out to be under 40$ so its good.
 
-time speat today: 4 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
+found out the old go to vendor for parts stopped accepting hcb cards, found a new vens\dor that should acet the parts if not we are doomed as the parts arent available at other places and too expensive on amazon 4x the prize
+
+time speat today: 5 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
