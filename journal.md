@@ -8,7 +8,7 @@ may 23
 
 so i just finished my reserch and yes creating dev boaf that lets me do everything that different flipper extension boards do combined into one is possible, and it can be created at fraction of the boards being sold online, saw some compelete diy boards , created my own wifi devboard a month ago and now think its possible to go for the ultimate dev board im plnning to make it available on hack market.
 
-so aftr a week or reserching found out that the cmponents needed cn be bought in india just not sure of id the vendoe will allow hcb, india secific problem
+so aftr a week or reserching found out that the cmponents needed cn be bought in india just not sure of id the vendor will allow hcb, india secific problem
 seed studio still ships cheap pcb to india so its good thst i can get the pcb made (already done 5-6 pcb in diff hackclub programs).
 
 created the bom , serched for parts and vendors and the total comes out to be under 40$ so its good.
@@ -16,3 +16,12 @@ created the bom , serched for parts and vendors and the total comes out to be un
 found out the old go to vendor for parts stopped accepting hcb cards, found a new vens\dor that should acet the parts if not we are doomed as the parts arent available at other places and too expensive on amazon 4x the prize
 
 time speat today: 5 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
+
+
+day 2:
+jun 2
+so just finised my finals so im free speant 1.5 hrs yesterday for more reserch , so decided agaist comprlte board creation using pcba as customs will demnd more cudstoms in india than the valur of the devboard itself. today i soeant 2 hrs on easy eda looking for footprintds of nrf 24 module cc10101 , andother modules trying and testinf so tey only have solderable chips for the modules not the module footprit itself so had to make changes as pcba uis a no no, ialso was coinsiderinf=g udsing protoboards insted of bcb but then i doint think the project will be approved will use this as backup if pcb from seeed studio is too late, had to cresate the footprints fir the modules i want to
+integrate i made those man spent more time in figuring out how to do that insted of realling doing thzt but its good experience. 
+
+so some changes made in bom will use whole modules insted of pcba, wroom with external anteena can be a problem due the vendors that allow hcb the one that has parts doesnt do i think, banggood ships from china at same price as available india but cant say about the customs, flyrobo should has all parts needed, the budget tweaked to 50$ +- 10
+time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , vendoe change som more reserch, more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch)
