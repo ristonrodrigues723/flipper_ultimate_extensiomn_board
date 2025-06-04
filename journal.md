@@ -27,3 +27,8 @@ so some changes made in bom will use whole modules insted of pcba, wroom with ex
 time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , vendoe change som more reserch, more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
 next step- perfedcting footprints for all modules, pcn]b creating and fixing errors,  3d design of cover
 
+day 3:
+june 4
+
+speant 4 hrs crated better footprints and schematics or components in easyeda learnt how to do it fornrf24,cc1101 and esp32 wroom the naminf of each pad pin was tireswome found aother venfdor that will dielever the component neede on time bur for a dollar more he has it in stock 100 pieces, was thinking of softwae but flipper aldeady has the apps necesary to run my devboard as per my reserch so its not needed some missing or ghost components messing with the pcb
+
