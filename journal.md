@@ -38,4 +38,7 @@ sorry for not updating as needed had a hell bad of a wek which exhausted mr phys
 total time for all of this 4 hrs ok img upload works its good , biggest peoblem if i want to use it as an nrf box the current from 3.3 id insufficiant, attaching a battery isnt poasible so i can only use 2 modules max at a time.
 ![image](https://github.com/user-attachments/assets/c78bab9b-68ec-4143-8485-aa09bc84f16c)
 
+footprint changing ![image](https://github.com/user-attachments/assets/b347ac33-fa17-49bc-b84f-d6abda3d47e9)
+
+
 
