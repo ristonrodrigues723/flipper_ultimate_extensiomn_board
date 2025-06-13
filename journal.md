@@ -35,10 +35,12 @@ speant 4 hrs crated better footprints and schematics or components in easyeda le
 day 4,5
 jun 12,13
 sorry for not updating as needed had a hell bad of a wek which exhausted mr physically and mentaLLY , FOUND OUT THE Allowed hcb vendoer doesnt hav any or most parts i need, or ill nedd aybe use ali express, the schematic had to be redone like foot prints and components as somehow they werent saved i had to restart from scratch, the neo6m and sd card modules footprints and componrnty diagrsasms are good not as many eroors this time, faced issue with thwe wiring of these 2 with the esp devkit c footprint they need to wired to the flipper i had wired them to fevmkit do had to reo thst, also added new nrf24 slot, and switched so when being powerered by flipper only one thing workd at a time swithcheds wil, ensure that , problem lied in connectionnflipper can weither power esp ot nrf ot the cc10101 at a time so switches should dolve the problem the neo6m derived power from 5v of flipper gpio its god i finished the pcb but not sure how ill add 3d models here im trying that todya 
-total time for all of this 4 hrs ok img upload works its good , biggest peoblem if i want to use it as an nrf box the current from 3.3 id insufficiant, attaching a battery isnt poasible so i can only use 2 modules max at a time.
+total time for all of this 6 hrs ok img upload works its good , biggest peoblem if i want to use it as an nrf box the current from 3.3 id insufficiant, attaching a battery isnt poasible so i can only use 2 modules max at a time.
 ![image](https://github.com/user-attachments/assets/c78bab9b-68ec-4143-8485-aa09bc84f16c)
 
 footprint changing ![image](https://github.com/user-attachments/assets/b347ac33-fa17-49bc-b84f-d6abda3d47e9)
+routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint sucks bad i have to redo a lot of things
+
 
 
 
