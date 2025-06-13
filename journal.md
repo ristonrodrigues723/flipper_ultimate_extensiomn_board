@@ -40,6 +40,7 @@ total time for all of this 6 hrs ok img upload works its good , biggest peoblem 
 
 footprint changing ![image](https://github.com/user-attachments/assets/b347ac33-fa17-49bc-b84f-d6abda3d47e9)
 routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint sucks bad i have to redo a lot of things
+ok 86 eroors sall related to drc and the lettersd  creatwed for footprints 
 
 
 
