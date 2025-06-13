@@ -24,11 +24,16 @@ so just finised my finals so im free speant 1.5 hrs yesterday for more reserch ,
 integrate i made those man spent more time in figuring out how to do that insted of realling doing thzt but its good experience. 
 
 so some changes made in bom will use whole modules insted of pcba, wroom with external anteena can be a problem due the vendors that allow hcb the one that has parts doesnt do i think, banggood ships from china at same price as available india but cant say about the customs, flyrobo should has all parts needed, the budget tweaked to 50$ +- 10
-time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , vendoe change som more reserch, more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
+time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , vendor change som more reserch, more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
 next step- perfedcting footprints for all modules, pcn]b creating and fixing errors,  3d design of cover
 
 day 3:
 june 4
 
 speant 4 hrs crated better footprints and schematics or components in easyeda learnt how to do it fornrf24,cc1101 and esp32 wroom the naminf of each pad pin was tireswome found aother venfdor that will dielever the component neede on time bur for a dollar more he has it in stock 100 pieces, was thinking of softwae but flipper aldeady has the apps necesary to run my devboard as per my reserch so its not needed some missing or ghost components messing with the pcb
+
+day 4,5
+jun 12,13
+sorry for not updating as needed had a hell bad of a wek which exhausted mr physically and mentaLLY , FOUND OUT THE Allowed hcb vendoer doesnt hav any or most parts i need, or ill nedd aybe use ali express, the schematic had to be redone like foot prints and components as somehow they werent saved i had to restart from scratch, the neo6m and sd card modules footprints and componrnty diagrsasms are good not as many eroors this time, faced issue with thwe wiring of these 2 with the esp devkit c footprint they need to wired to the flipper i had wired them to fevmkit do had to reo thst, also added new nrf24 slot, and switched so when being powerered by flipper only one thing workd at a time swithcheds wil, ensure that , problem lied in connectionnflipper can weither power esp ot nrf ot the cc10101 at a time so switches should dolve the problem the neo6m derived power from 5v of flipper gpio its god i finished the pcb but not sure how ill add 3d models here im trying that todya 
+total time for all of this 4 hrs 
 
