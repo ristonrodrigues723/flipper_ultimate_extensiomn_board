@@ -49,7 +49,10 @@ current board with no added parts got esp devkit modue and more but stuck
 big problem after azll work i ddi the pitch is 78.7 mil even after personally setting the oitch to 100mil ie 2.54 inch sth ill have to redo everything man its just messed up it ws what was messing the 3d models back to square one ![image](https://github.com/user-attachments/assets/adb6f365-6965-4667-a784-55d98df3c0fe)
 ![image](https://github.com/user-attachments/assets/099c8a40-95bb-421a-be2f-ab7df1fe32dc)
 
-![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb) managed t change half to corrct size rest are stuck no matter what i do
+![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb) managed t change half to corrct size rest are stuck no matter what i do, ma i tied all step i did on the other ones still same man i fell sing peotoboard pcb and wirws would have been bettwr. ![image](https://github.com/user-attachments/assets/125b0f5e-5645-4771-99dd-998f7ae0f3b1) u can se the sp and nrf c1010 are still jot getting grid right despite changeing everything as pr documentaion
+
+
+
 
 
 
