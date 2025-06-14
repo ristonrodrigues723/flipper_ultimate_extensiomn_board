@@ -43,6 +43,10 @@ routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint suck
 ok 86 eroors sall related to drc and the lettersd  creatwed for footprints 
 finlly the board is done no drc edited foororints again-![image](https://github.com/user-attachments/assets/53ae6e07-58ce-4fa4-a334-5f762cecba50)
 
+day 6, jun 14
+im stuck with the 3d models of each components tried grabcad models with my board pcb omehoe eveb 2 hrs im clueles on how to perfectly add those to my board if this goes on dpopont know if i cluld vcreate case before i have the parts, i tried booleen it still is stuck, nor gruping works mate connector is still messed up ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
+current board with no added parts got esp devkit modue and more but stuck
+
 
 
 
