@@ -62,7 +62,9 @@ finally it took 45 mins just for adjusement
 
 
 
-hrs speant today-8hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda
+hrs speant today-10hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda,
+redid entire pcb again after changing the foorprint grid size and pitch when i uofated schematic there updated correspoonding pcb there were 152 drc errord htried reslovinf thrn deleted, made new and routed much easirer thamn re routing![image](https://github.com/user-attachments/assets/469e1a22-000d-41eb-8840-cc0dd6098eac)
+
 
 
 
