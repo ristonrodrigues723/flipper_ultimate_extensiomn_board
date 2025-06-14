@@ -11,11 +11,11 @@ so i just finished my reserch and yes creating dev boaf that lets me do everythi
 so aftr a week or reserching found out that the cmponents needed cn be bought in india just not sure of id the vendor will allow hcb, india secific problem
 seed studio still ships cheap pcb to india so its good thst i can get the pcb made (already done 5-6 pcb in diff hackclub programs).
 
-created the bom , serched for parts and vendors and the total comes out to be under 40$ so its good.
+created -the bom , serched for parts and vendors and the total comes out to be under 40$ so its good.
 
 found out the old go to vendor for parts stopped accepting hcb cards, found a new vens\dor that should acet the parts if not we are doomed as the parts arent available at other places and too expensive on amazon 4x the prize
 
-time speat today: 5 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
+time speat today: 3 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
 
 
 day 2:
@@ -24,13 +24,16 @@ so just finised my finals so im free speant 1.5 hrs yesterday for more reserch ,
 integrate i made those man spent more time in figuring out how to do that insted of realling doing thzt but its good experience. 
 
 so some changes made in bom will use whole modules insted of pcba, wroom with external anteena can be a problem due the vendors that allow hcb the one that has parts doesnt do i think, banggood ships from china at same price as available india but cant say about the customs, flyrobo should has all parts needed, the budget tweaked to 50$ +- 10
-time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , vendor change som more reserch, more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
-next step- perfedcting footprints for all modules, pcn]b creating and fixing errors,  3d design of cover
+
+time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
+next step- perfecting footprints for all modules, pcn]b creating and fixing errors,  3d design of cover
 
 day 3:
 june 4
 
-speant 4 hrs crated better footprints and schematics or components in easyeda learnt how to do it fornrf24,cc1101 and esp32 wroom the naminf of each pad pin was tireswome found aother venfdor that will dielever the component neede on time bur for a dollar more he has it in stock 100 pieces, was thinking of softwae but flipper aldeady has the apps necesary to run my devboard as per my reserch so its not needed some missing or ghost components messing with the pcb
+speant 4 hrs crated better footprints and schematics for components in easyeda learnt how to do it for nrf24,cc1101 and esp32 wroom the naming of each pad pin was tireswome found aother vendor that will dielever the component neede on time bur for a dollar more he has it in stock 100 pieces, was thinking of softwae but flipper aldeady has the apps necesary to run my devboard as per my reserch so its not needed some missing or ghost components messing with the pcb
+time speat today:4 hrs, learnt custrom footprint, component creation, linking both of them together
+
 
 day 4,5
 jun 12,13
@@ -43,6 +46,8 @@ routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint suck
 ok 86 eroors sall related to drc and the lettersd  creatwed for footprints 
 finlly the board is done no drc edited foororints again-![image](https://github.com/user-attachments/assets/53ae6e07-58ce-4fa4-a334-5f762cecba50)
 
+time spent:6 hrs+ reded schematic component and footprintsa for components, routing mesed my head,integrating all compemts took a lot of trial and error as teht all could ave shot dcircuted the borad , added switches to conterol power output from flipper gpio
+
 day 6, jun 14
 im stuck with the 3d models of each components tried grabcad models with my board pcb omehoe eveb 2 hrs im clueles on how to perfectly add those to my board if this goes on dpopont know if i cluld vcreate case before i have the parts, i tried booleen it still is stuck, nor gruping works mate connector is still messed up ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
 current board with no added parts got esp devkit modue and more but stuck
@@ -51,6 +56,9 @@ big problem after azll work i ddi the pitch is 78.7 mil even after personally se
 
 ![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb) managed t change half to corrct size rest are stuck no matter what i do, ma i tied all step i did on the other ones still same man i fell sing peotoboard pcb and wirws would have been bettwr. ![image](https://github.com/user-attachments/assets/125b0f5e-5645-4771-99dd-998f7ae0f3b1) u can se the sp and nrf c1010 are still jot getting grid right despite changeing everything as pr documentaion
 stuck in fliper and nrf footprints custom design sucks ok still no solutuon nonmatter what i do it doesnt sem to change for these to tried everything seems o   r a software issue dsamn , just it wont improve or change no matter what doing it ahain will waste another day![image](https://github.com/user-attachments/assets/c305a7a6-d00d-4c52-8e47-abe835e2b643) using protoboards was much easier
+
+
+hrs speant today-7hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda
 
 
 
