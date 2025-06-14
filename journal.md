@@ -57,8 +57,12 @@ big problem after azll work i ddi the pitch is 78.7 mil even after personally se
 ![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb) managed t change half to corrct size rest are stuck no matter what i do, ma i tied all step i did on the other ones still same man i fell sing peotoboard pcb and wirws would have been bettwr. ![image](https://github.com/user-attachments/assets/125b0f5e-5645-4771-99dd-998f7ae0f3b1) u can se the sp and nrf c1010 are still jot getting grid right despite changeing everything as pr documentaion
 stuck in fliper and nrf footprints custom design sucks ok still no solutuon nonmatter what i do it doesnt sem to change for these to tried everything seems o   r a software issue dsamn , just it wont improve or change no matter what doing it ahain will waste another day![image](https://github.com/user-attachments/assets/c305a7a6-d00d-4c52-8e47-abe835e2b643) using protoboards was much easier
 
+![image](https://github.com/user-attachments/assets/01020f3f-ab38-494c-9a3e-ecb616cef966)
+finally it took 45 mins just for adjusement
 
-hrs speant today-7hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda
+
+
+hrs speant today-8hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda
 
 
 
