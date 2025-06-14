@@ -46,8 +46,6 @@ finlly the board is done no drc edited foororints again-![image](https://github.
 day 6, jun 14
 im stuck with the 3d models of each components tried grabcad models with my board pcb omehoe eveb 2 hrs im clueles on how to perfectly add those to my board if this goes on dpopont know if i cluld vcreate case before i have the parts, i tried booleen it still is stuck, nor gruping works mate connector is still messed up ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
 current board with no added parts got esp devkit modue and more but stuck
-
-
-
+big problem after azll work i ddi the pitch is 78.7 mil even after personally setting the oitch to 100mil ie 2.54 inch sth ill have to redo everything man its just messed up it ws what was messing the 3d models back to square one ![image](https://github.com/user-attachments/assets/adb6f365-6965-4667-a784-55d98df3c0fe)
 
 
