@@ -13,5 +13,8 @@ what my board does compared to othrs, wifi pentesting from about 100m+ most modu
 im also designing the case for this but therer a problem likr i cant do that until i can physically because adding 3d models of external modules on pcb then designing a case around
 ![image](https://github.com/user-attachments/assets/68ab8e0f-2523-4536-9d52-09d4b3ca5031) the caSENWIll need changes depending on part availibility
 
+view the 3d model here-
+https://cad.onshape.com/documents/c430f21f33defa377d0e0f0f/w/f997e1d9ea8b711ac69e3233/e/4b421913023080162e21c2db?renderMode=0&uiState=684e49af4ea69c0d7908353d
+
 
 
