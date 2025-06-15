@@ -46,7 +46,7 @@ routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint suck
 ok 86 eroors sall related to drc and the lettersd  creatwed for footprints 
 finlly the board is done no drc edited foororints again-![image](https://github.com/user-attachments/assets/53ae6e07-58ce-4fa4-a334-5f762cecba50)
 
-time spent:6 hrs+ reded schematic component and footprintsa for components, routing mesed my head,integrating all compemts took a lot of trial and error as teht all could ave shot dcircuted the borad , added switches to conterol power output from flipper gpio
+time spent:6 hrs+ redid schematic diagram, component and footprintsa for components, routing mesed my head,integrating all compemts took a lot of trial and error as teht all could ave shot circuted the borad , added switches to conterol power output from flipper gpio.
 
 day 6, jun 14
 im stuck with the 3d models of each components tried grabcad models with my board pcb omehoe eveb 2 hrs im clueles on how to perfectly add those to my board if this goes on dpopont know if i cluld vcreate case before i have the parts, i tried booleen it still is stuck, nor gruping works mate connector is still messed up ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
@@ -64,6 +64,11 @@ finally it took 45 mins just for adjusement
 
 hrs speant today-10hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda,
 redid entire pcb again after changing the foorprint grid size and pitch when i uofated schematic there updated correspoonding pcb there were 152 drc errord htried reslovinf thrn deleted, made new and routed much easirer thamn re routing![image](https://github.com/user-attachments/assets/469e1a22-000d-41eb-8840-cc0dd6098eac)
+
+
+day7 jun 15
+found out thatall 3d models whiloe importing on onshape cn be get messed so soent an hour hoe to so tat properly , imported pcb 3d model external ones from grab cad after importing into single part studeios then boolean , then inserting them on main pcb, disthe ase for the pcb added external module 3d fmodels from grab cab , enclosed the case , both bcb and case could need changes depending on part avaikinility as devlit c and wroom 32 u have diff footprints so more 3-4 hrs and the case id bsic will need to know exact positions sdn models and modules differ in reality .
+time spent -4 hrs, work done, 3d model witjh all moduels , case, minor pocb changing.
 
 
 
