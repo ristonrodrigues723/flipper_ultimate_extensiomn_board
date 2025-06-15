@@ -17,4 +17,11 @@ view the 3d model here-
 https://cad.onshape.com/documents/c430f21f33defa377d0e0f0f/w/f997e1d9ea8b711ac69e3233/e/4b421913023080162e21c2db?renderMode=0&uiState=684e49af4ea69c0d7908353d
 
 
+biggest problem is getting parts many like cc1101 arent avaioable at vendors accepting hcb si this cam mess the budget
+
+
+budget is 50$ compeletely , samere board from rabbit labs costs 200$ so its good
+didnt go from compelete pcb as it increases cost to that much and then ill have same amount of customs
+
+
 
