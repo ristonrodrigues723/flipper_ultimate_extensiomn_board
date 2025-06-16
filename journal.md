@@ -2,7 +2,7 @@ title: "flipper ultimate extensiomn board"
 author: "Riston Rodrigues (name or slack username)"
 description: "diy ultimate flipper extension board with capabilites incorporating those of most availablr extension boards at fraction of the cost"
 created_at: "5-23-25"
-total time spent 18hrs- i know i should ghave taken so much but creatimg cudtom footprints sucks in easyeda , and the reslatd compionent assigning ins ponr wrong step and your hr spent ding the footprint and naming individual pins goes to hell, had to redo the pcb multiple times due ti the text silkscreen messinf with rfouting.
+total time spent 14hrs- i know i should not ghave taken so much but creatimg cudtom footprints sucks in easyeda , and the reslatd compionent assigning ins ponr wrong step and your hr spent ding the footprint and naming individual pins goes to hell, had to redo the pcb multiple times due ti the text silkscreen messinf with rfouting.
 
 day 1:
 may 23
