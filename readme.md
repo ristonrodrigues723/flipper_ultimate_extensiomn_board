@@ -20,8 +20,10 @@ https://cad.onshape.com/documents/c430f21f33defa377d0e0f0f/w/f997e1d9ea8b711ac69
 biggest problem is getting parts many like cc1101 arent avaioable at vendors accepting hcb si this cam mess the budget
 
 
-budget is 50$ compeletely , samere board from rabbit labs costs 200$ so its good
+budget is 53$ compeletely , samere board from rabbit labs costs 200$ so its good
 didnt go from compelete pcb as it increases cost to that much and then ill have same amount of customs
+threadeed inserts and bolts cost aboyr 1.5 dollars and shippig of same damn
+
 
 
 
