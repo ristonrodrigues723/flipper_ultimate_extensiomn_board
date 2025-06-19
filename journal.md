@@ -72,6 +72,10 @@ found out thatall 3d models whiloe importing on onshape cn be get messed so soen
 time spent -4 hrs, work done, 3d model witjh all moduels , case, minor pocb changing.
 
 
+day8 jun 19: 
+found thsat momentum does aloow js scripting it has great limitations though https://github.com/Next-Flip/Momentum-Firmware/blob/dev/applications/system/js_app/examples/apps/Scripts/Examples/uart_echo_8e1.js ias an exaple followed this to code a write a basic interfcaing to get gps to ditrectly work with fliper like noe the parts of devborrd will be launched via these js script, dont know if itll work as theres still the problem of tezting cant test ubtil i have the board with me. time ill update again ill have to get it checked on the community, will try other scripts once this is allowed
+
+
 
 
 
