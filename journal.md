@@ -1,79 +1,91 @@
-title: "flipper ultimate extensiomn board"
-author: "Riston Rodrigues (name or slack username)"
-description: "diy ultimate flipper extension board with capabilites incorporating those of most availablr extension boards at fraction of the cost"
-created_at: "5-23-25"
-total time spent 14hrs- i know i should not ghave taken so much but creatimg cudtom footprints sucks in easyeda , and the reslatd compionent assigning ins ponr wrong step and your hr spent ding the footprint and naming individual pins goes to hell, had to redo the pcb multiple times due ti the text silkscreen messinf with rfouting.
-
-day 1:
-may 23
-
-so i just finished my reserch and yes creating dev boaf that lets me do everything that different flipper extension boards do combined into one is possible, and it can be created at fraction of the boards being sold online, saw some compelete diy boards , created my own wifi devboard a month ago and now think its possible to go for the ultimate dev board im plnning to make it available on hack market.
-
-so aftr a week or reserching found out that the cmponents needed cn be bought in india just not sure of id the vendor will allow hcb, india secific problem
-seed studio still ships cheap pcb to india so its good thst i can get the pcb made (already done 5-6 pcb in diff hackclub programs).
-
-created -the bom , serched for parts and vendors and the total comes out to be under 40$ so its good.
-
-found out the old go to vendor for parts stopped accepting hcb cards, found a new vens\dor that should acet the parts if not we are doomed as the parts arent available at other places and too expensive on amazon 4x the prize
-
-time speat today: 3 hrs (serched for a dozen vendors for prt availability locally , went through already available tutorials from talking sasquash, and others, cretaed the bom)
+Title: Flipper Ultimate Extension Board
+Author: Riston Rodrigues (name or Slack username)
+Description: DIY ultimate Flipper extension board with capabilities incorporating those of most available extension boards, at a fraction of the cost. it takes all those boards available and integrates them into one offering capabilites surpasing all at fraction of cost.
+Created at: 2025-05-23
+Total time spent: ~28 hrs
 
 
-day 2:
-jun 2
-so just finised my finals so im free speant 1.5 hrs yesterday for more reserch , so decided agaist comprlte board creation using pcba as customs will demnd more cudstoms in india than the valur of the devboard itself. today i soeant 2 hrs on easy eda looking for footprintds, and some pcb design of nrf 24 module ,cc10101 , andother modules trying and testing as they only have solderable chips for the modules not the module footprit itself so had to make changes as pcba is now a compelete no-no, i also was coinsidering udsing protoboards insted of bcb but then i doint think the project will be approved will use this as backup if pcb from seeed studio is too late, had to cresate the footprints fir the modules i want to
-integrate i made those man spent more time in figuring out how to do that insted of realling doing thzt but its good experience. 
 
-so some changes made in bom will use whole modules insted of pcba, wroom with external anteena can be a problem due the vendors that allow hcb the one that has parts doesnt do i think, banggood ships from china at same price as available india but cant say about the customs, flyrobo should has all parts needed, the budget tweaked to 50$ +- 10
+Day 1: May 23
+Finished research. Confirmed that i can creata a dev board that combines the features of different Flipper extension boards at a much lower cost than commercial options.
+followed all available tutorials reserched if itsd possibile 
+tasks i did-
+Created the BOM 
+Searched for parts and vendors (total cost ~ $40) this doesnt include the pcb otr case its via pritnting legion
+usual indian vendor stopped accepting HCB card — found alternatives, conforemed 
+confirmed seed studio price with shipping
 
-time speat today: 6 hrs(4.5 today ,1.5 yesteray) footprint design, module change , more modules can be integrated into the ultimate board as oposed to the 2-3 max on commercial ones as latest rerserch, so 3 for ble wifi 2.4ghz gps sd carfd and all can be combined and supported on 3.7 volts via flipper and esp idf switches aere added to control the current flow to modules (new reserch) 
-next step- perfecting footprints for all modules, pcn]b creating and fixing errors,  3d design of cover
-
-day 3:
-june 4
-
-speant 4 hrs crated better footprints and schematics for components in easyeda learnt how to do it for nrf24,cc1101 and esp32 wroom the naming of each pad pin was tireswome found aother vendor that will dielever the component neede on time bur for a dollar more he has it in stock 100 pieces, was thinking of softwae but flipper aldeady has the apps necesary to run my devboard as per my reserch so its not needed some missing or ghost components messing with the pcb
-time speat today:4 hrs, learnt custrom footprint, component creation, linking both of them together
+Time spent: 4.5 hrs
 
 
-day 4,5
-jun 12,13
-sorry for not updating as needed had a hell bad of a wek which exhausted mr physically and mentaLLY , FOUND OUT THE Allowed hcb vendoer doesnt hav any or most parts i need, or ill nedd aybe use ali express, the schematic had to be redone like foot prints and components as somehow they werent saved i had to restart from scratch, the neo6m and sd card modules footprints and componrnty diagrsasms are good not as many eroors this time, faced issue with thwe wiring of these 2 with the esp devkit c footprint they need to wired to the flipper i had wired them to fevmkit do had to reo thst, also added new nrf24 slot, and switched so when being powerered by flipper only one thing workd at a time swithcheds wil, ensure that , problem lied in connectionnflipper can weither power esp ot nrf ot the cc10101 at a time so switches should dolve the problem the neo6m derived power from 5v of flipper gpio its god i finished the pcb but not sure how ill add 3d models here im trying that todya 
-total time for all of this 6 hrs ok img upload works its good , biggest peoblem if i want to use it as an nrf box the current from 3.3 id insufficiant, attaching a battery isnt poasible so i can only use 2 modules max at a time.
+day 2: June 2
+Decided  against full PCBA due to customs issues in India. using pcba will increase board cost to 100 pcb + other modules not done , problem with cxustoms more than value of actual board.
+
+tasks done by me-
+Switched to using whole modules- easier but creating footprints harder
+Created custom footprints for NRF24, CC1101, ESP32 WROOM today 
+BOM revised to ~$50 ± $10 for most 
+added switches to control module power via Flipper GPIO to pcb base diagram
+
+Time spent: 6 hrs 
+
+day 3: June 4
+ Improved footprints and schematic- changed the fotprints found out problems when i added them to schemdeatic and pcb so whole dimension itertating changing till needed
+Learned custom footprint + component linking in EasyEDA: how to create component footprints scratch head scratching process, but im ggood at it now 
+Found another vendor with parts in stock for esp with externa anteena riange of the board increaset to 100-200 m from 10m for flipper
+
+Time spent: 4 hrs
+
+
+Day 4-5: June 12-13
+Recreated schematic, footprints, and components - had to modify tyhr component diagrams , footprints and schematic dur to provlrms earlier in dimension mismatch in both 
+Added SD card + NEO6M GPS module footprints and component diagrams from scratch
+Added switches so Flipper powers one major module at a time - filpper has linlited power so it needs to be managed to avoid damazging board and the flipper itself
+Completed PCB routing — resolved DRC errors custom component diag and footprints gave this spenant a ,ot time understanding rsolving still had to route reroute ocb a dozen toimes
+
+Time spent: 6 hrs
 ![image](https://github.com/user-attachments/assets/c78bab9b-68ec-4143-8485-aa09bc84f16c)
 
 footprint changing ![image](https://github.com/user-attachments/assets/b347ac33-fa17-49bc-b84f-d6abda3d47e9)
-routing sucks 2 hrs and evwrfything is still a mess cretig custom footprint sucks bad i have to redo a lot of things
-ok 86 eroors sall related to drc and the lettersd  creatwed for footprints 
-finlly the board is done no drc edited foororints again-![image](https://github.com/user-attachments/assets/53ae6e07-58ce-4fa4-a334-5f762cecba50)
+![image](https://github.com/user-attachments/assets/53ae6e07-58ce-4fa4-a334-5f762cecba50)
 
-time spent:6 hrs+ redid schematic diagram, component and footprintsa for components, routing mesed my head,integrating all compemts took a lot of trial and error as teht all could ave shot circuted the borad , added switches to conterol power output from flipper gpio.
 
-day 6, jun 14
-im stuck with the 3d models of each components tried grabcad models with my board pcb omehoe eveb 2 hrs im clueles on how to perfectly add those to my board if this goes on dpopont know if i cluld vcreate case before i have the parts, i tried booleen it still is stuck, nor gruping works mate connector is still messed up ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
-current board with no added parts got esp devkit modue and more but stuck
-big problem after azll work i ddi the pitch is 78.7 mil even after personally setting the oitch to 100mil ie 2.54 inch sth ill have to redo everything man its just messed up it ws what was messing the 3d models back to square one ![image](https://github.com/user-attachments/assets/adb6f365-6965-4667-a784-55d98df3c0fe)
+Day 6: June 14
+ Tried adding 3D models to board problems with import the mdels dissolved into m,any small dissassociated pieces, faced grid + pitch mismatch  (78.7 mil vs 100 mil) for most components this made my head ache this is really difficult to change in easyeda.
+Redid footprints, schematic, PCB routing from start to match the pitch 
+i cleared DRC errors after fixing grid + pitch
+inalized PCB design after major effort
+
+Time spent: 4 hrs ![image](https://github.com/user-attachments/assets/b6b4d918-d956-42a9-a5c7-1f2c9e47f188)
+ ![image](https://github.com/user-attachments/assets/adb6f365-6965-4667-a784-55d98df3c0fe)
 ![image](https://github.com/user-attachments/assets/099c8a40-95bb-421a-be2f-ab7df1fe32dc)
 
-![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb) managed t change half to corrct size rest are stuck no matter what i do, ma i tied all step i did on the other ones still same man i fell sing peotoboard pcb and wirws would have been bettwr. ![image](https://github.com/user-attachments/assets/125b0f5e-5645-4771-99dd-998f7ae0f3b1) u can se the sp and nrf c1010 are still jot getting grid right despite changeing everything as pr documentaion
-stuck in fliper and nrf footprints custom design sucks ok still no solutuon nonmatter what i do it doesnt sem to change for these to tried everything seems o   r a software issue dsamn , just it wont improve or change no matter what doing it ahain will waste another day![image](https://github.com/user-attachments/assets/c305a7a6-d00d-4c52-8e47-abe835e2b643) using protoboards was much easier
+![image](https://github.com/user-attachments/assets/544fa0e8-73d2-4c45-8b8d-7dc012d249cb)
+![image](https://github.com/user-attachments/assets/125b0f5e-5645-4771-99dd-998f7ae0f3b1)
+![image](https://github.com/user-attachments/assets/c305a7a6-d00d-4c52-8e47-abe835e2b643) 
 
 ![image](https://github.com/user-attachments/assets/01020f3f-ab38-494c-9a3e-ecb616cef966)
 finally it took 45 mins just for adjusement
 
 
-
-hrs speant today-10hrs, stuff done - assmebling of pcb model and external models to creare the cadse got messed as i notieded after hrs of trial and eroror it s messed up my gid size messed everything up, had to serch try and do redo everything in footprints and changed footprints of 4 , still 2 esp anf nrf had to be compeletely redone, judt too messy too headaching actaull speant a lot of time thats not accounted in hoe to actualy do new styudf in easyeda,
-redid entire pcb again after changing the foorprint grid size and pitch when i uofated schematic there updated correspoonding pcb there were 152 drc errord htried reslovinf thrn deleted, made new and routed much easirer thamn re routing![image](https://github.com/user-attachments/assets/469e1a22-000d-41eb-8840-cc0dd6098eac)
+[image](https://github.com/user-attachments/assets/469e1a22-000d-41eb-8840-cc0dd6098eac)
 
 
-day7 jun 15
-found out thatall 3d models whiloe importing on onshape cn be get messed so soent an hour hoe to so tat properly , imported pcb 3d model external ones from grab cad after importing into single part studeios then boolean , then inserting them on main pcb, disthe ase for the pcb added external module 3d fmodels from grab cab , enclosed the case , both bcb and case could need changes depending on part avaikinility as devlit c and wroom 32 u have diff footprints so more 3-4 hrs and the case id bsic will need to know exact positions sdn models and modules differ in reality .
-time spent -4 hrs, work done, 3d model witjh all moduels , case, minor pocb changing.
+Day 7: June 15
+finally i successfuly  Imported PCB + external module 3D models into Onshape, it was part studio impoet of module + booleen worked in this so problem soved
+Created basic case design chnaged as neeeded asnproblems exist due to component mismatch wih model and real life
+Note: case and PCB may need adjustments based on actual parts as tyhe parts in model and real life are a lot diff, and the models are a little offgrid with size pin size
+
+Time spent: 4 hrs
+
+Tested basic JS scripting on Momentum firmware for Flipper- so having softeae is need as per reviweer so i went to flipper comjunities on rdiit founf js scripting via flipeer sdk for frimwares like movementum that are available alloe us to use flipper via bnormal scripting to do a lot of things rrserch was painful as he firmwares got split from extreme to momentum and extreme so js scripting shoud allow me to use my boars without reting flipper aps from scratch, 
+warning: cant test this wthpout actual board with me told this o reviwer as this needs extensive testing,
 
 
-day8 jun 19: 
-found thsat momentum does aloow js scripting it has great limitations though applications/system/js_app/examples/apps/Scripts/Examples ias an exaple followed this to code a write a basic interfcaing to get gps to ditrectly work with fliper like noe the parts of devborrd will be launched via these js script, dont know if itll work as theres still the problem of tezting cant test ubtil i have the board with me. time ill update again ill have to get it checked on the community, will try other scripts once this is allowed, this will work on momuntum frimware that is new version of extreme as the offical has yet to come u with more suport functuiuionalities.
+for time i put less hrs in bard cause i though reviews wont believe it that i spent so much time for this , actually i ws palnning on finishing this in 14 hrs itself but a lot of things went wrong like footprint component dimension problems, model size problem part availability . pcb and schemaic redesign multiple times, so also budegt hopefully is sill 50 until the price blows up or gets messed , like seed stopped cheap pcb dilevery and is asking 30 dollars for a basic pcb, but jlc reduced price to 14 dollars with shipping with cupons this should go to2-3 s people asaid s it would save hc 8 dollars 
+
+also pitch change will be needed o be doenin the pcb when real parts arrive.
+
 
 
 
