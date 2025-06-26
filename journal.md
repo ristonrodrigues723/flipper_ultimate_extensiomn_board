@@ -1,6 +1,6 @@
 Title: Flipper Ultimate Extension Board
 Author: Riston Rodrigues (name or Slack username)
-Description: DIY ultimate Flipper extension board with capabilities incorporating those of most available extension boards, at a fraction of the cost. it takes all those boards available and integrates them into one offering capabilites surpasing all at fraction of cost.
+Description:This is a  DIY ultimate Flipper extension board with capabilities incorporating those of most available extension boards from rabbit labs and more, at a fraction of the cost. it takes all those boards available and integrates them into one offering capabilites surpasing all at fraction of cost.
 Created at: 2025-05-23
 Total time spent: ~28 hrs
 
@@ -10,8 +10,9 @@ Day 1: May 23
 Finished research. Confirmed that i can creata a dev board that combines the features of different Flipper extension boards at a much lower cost than commercial options.
 followed all available tutorials reserched if itsd possibile 
 tasks i did-
-Created the BOM 
-Searched for parts and vendors (total cost ~ $40) this doesnt include the pcb otr case its via pritnting legion
+Created the BOM
+started  schematic, finished it came to know parts i need modules dont have schermatic or footprints
+Searched for parts and vendors (total cost ~ $40) this doesnt include the pcb and case as its via pritnting legion
 usual indian vendor stopped accepting HCB card — found alternatives, conforemed 
 confirmed seed studio price with shipping
 
@@ -38,7 +39,7 @@ Time spent: 4 hrs
 
 
 Day 4-5: June 12-13
-Recreated schematic, footprints, and components - had to modify tyhr component diagrams , footprints and schematic dur to provlrms earlier in dimension mismatch in both 
+Recreated schematic, footprints, and components - had to modify the component diagrams , footprints and schematic dur to provlems earlier in dimension mismatch in both pitch size for pins
 Added SD card + NEO6M GPS module footprints and component diagrams from scratch
 Added switches so Flipper powers one major module at a time - filpper has linlited power so it needs to be managed to avoid damazging board and the flipper itself
 Completed PCB routing — resolved DRC errors custom component diag and footprints gave this spenant a ,ot time understanding rsolving still had to route reroute ocb a dozen toimes
@@ -51,7 +52,7 @@ footprint changing ![image](https://github.com/user-attachments/assets/b347ac33-
 
 
 Day 6: June 14
- Tried adding 3D models to board problems with import the mdels dissolved into m,any small dissassociated pieces, faced grid + pitch mismatch  (78.7 mil vs 100 mil) for most components this made my head ache this is really difficult to change in easyeda.
+ Tried adding 3D models to board problems with importing the models dissolved into onshape it gotn divided into many small dissassociated pieces, faced grid + pitch mismatch  (78.7 mil vs 100 mil) for most components this made my head ache this is really difficult to change in easyeda.
 Redid footprints, schematic, PCB routing from start to match the pitch 
 i cleared DRC errors after fixing grid + pitch
 inalized PCB design after major effort
@@ -72,9 +73,9 @@ finally it took 45 mins just for adjusement
 
 
 Day 7: June 15
-finally i successfuly  Imported PCB + external module 3D models into Onshape, it was part studio impoet of module + booleen worked in this so problem soved
-Created basic case design chnaged as neeeded asnproblems exist due to component mismatch wih model and real life
-Note: case and PCB may need adjustments based on actual parts as tyhe parts in model and real life are a lot diff, and the models are a little offgrid with size pin size
+finally i successfuly  Imported PCB + external module 3D models into Onshape, it was part studio import of module + booleen worked in this so problem solved
+Created basic case design chnaged as neeeded as problems exist due to component mismatch wih model and real life
+Note: case and PCB may need adjustments based on actual parts as the parts in model and real life are a lot diff, and the models are a little offgrid with size pin size the pcb has right sizes for footprints confirmed this multiple times.
 
 Time spent: 4 hrs
 
