@@ -26,6 +26,7 @@ budget is 53$ compeletely , same board from rabbit labs costs 200$ so its good
 didnt go from compelete pcba as it increases cost so much and then ill have same amount of customs
 threaded inserts and bolts cost about 1.5 dollars and shippig of same damn so will try local vendors my own costs
 
+![image](https://github.com/user-attachments/assets/bf78c99b-e9c6-4f37-b0b6-65996ba0bc6d) only case as neeed
 
 
 
