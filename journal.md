@@ -88,6 +88,8 @@ for time i put less hrs in bard cause i though reviews wont believe it that i sp
 also pitch change will be needed o be doenin the pcb when real parts arrive.
 
 
+things got messed the vendor droped support for hcb found another thaTs cheaper so lets see where it goes
+
 
 
 
