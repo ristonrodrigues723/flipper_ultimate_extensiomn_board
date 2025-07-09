@@ -5,9 +5,13 @@ and this should combine it all into a single board
 
 what my board does compared to othrs, wifi pentesting from about 100m+ most modules allow 25 m range, nrf capabalitis and ble testing from 100 m, usage of gps related functions from flipper, cc1101 will allow mw to opeart rf applications from far away.
 
-![image](https://github.com/user-attachments/assets/49256134-0e86-427d-a073-0e42d13b01c3)
+![image](https://github.com/user-attachments/assets/3a85f989-1d29-4712-9930-b27bb551455a)
+
 
 ![image](https://github.com/user-attachments/assets/0ed3bee6-7807-471a-ae9d-ffe8ac5389ae)
+
+![image](https://github.com/user-attachments/assets/1b38c799-9d9c-4b2e-9a53-2d98bf93752a)
+
 
 ![image](https://github.com/user-attachments/assets/5a08ee43-453f-4ccc-8a96-8633d8f9e60d)
 im also designing the case for this but therer a problem like i cant do that until i can physically because adding 3d models of external modules on pcb then designing a case around
@@ -27,6 +31,12 @@ didnt go from compelete pcba as it increases cost so much and then ill have same
 threaded inserts and bolts cost about 1.5 dollars and shippig of same damn so will try local vendors my own costs
 
 ![image](https://github.com/user-attachments/assets/bf78c99b-e9c6-4f37-b0b6-65996ba0bc6d) only case as neeed 
+![image](https://github.com/user-attachments/assets/856a082f-65aa-4571-bafd-9c1349133779)
+![image](https://github.com/user-attachments/assets/4e24ab59-a55c-4f89-8184-a7fb1fde5afd)
+
+time spent- 5 hrs
+
+
 
 
 
