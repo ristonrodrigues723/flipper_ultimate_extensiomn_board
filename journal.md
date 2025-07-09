@@ -94,6 +94,7 @@ had to add comon gend for the tp charger module![image](https://github.com/user-
 
 things got messed the vendor droped support for hcb found another thaTs cheaper so lets see where it goes
 some pins got messed up sck and button io got connected togethrrer shorting the circut had to compeletely reset the circut
+damn somehow no matter what i do the netlist isnt updating iy can lead to problems kater
 
 
 
