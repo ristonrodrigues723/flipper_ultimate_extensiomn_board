@@ -96,7 +96,7 @@ things got messed the vendor droped support for hcb found another thaTs cheaper 
 some pins got messed up sck and button io got connected togethrrer shorting the circut had to compeletely reset the circut
 damn somehow no matter what i do the netlist isnt updating iy can lead to problems kater![image](https://github.com/user-attachments/assets/b0ce0255-60f7-4a2d-8758-f86320a0e90f)
 made it as compact as i could without pcba
-
+man still error not fixed schematic done its connected but somehow pchb isnt getting chaNGED maybeil have to reroute
 
 
 
