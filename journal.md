@@ -98,6 +98,9 @@ damn somehow no matter what i do the netlist isnt updating iy can lead to proble
 made it as compact as i could without pcba
 man still error not fixed schematic done its connected but somehow pchb isnt getting chaNGED maybeil have to reroute
 
+there were 3 routings betwween pin 17 31 of esp anf button and dac allmwere connected in pcb despite cghanges in schenatic routing didnt help re routed and al errors gone will check netlist again
+
+
 
 
 
