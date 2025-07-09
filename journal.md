@@ -87,8 +87,13 @@ for time i put less hrs in bard cause i though reviews wont believe it that i sp
 
 also pitch change will be needed o be doenin the pcb when real parts arrive.
 
+day 3 9/7/25
+had to add comon gend for the tp charger module![image](https://github.com/user-attachments/assets/21176ded-d65d-4c03-a7b7-c6cf98374f2a)
+
+
 
 things got messed the vendor droped support for hcb found another thaTs cheaper so lets see where it goes
+some pins got messed up sck and button io got connected togethrrer shorting the circut had to compeletely reset the circut
 
 
 
