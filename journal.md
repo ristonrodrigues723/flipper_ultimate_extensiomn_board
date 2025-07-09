@@ -99,6 +99,14 @@ made it as compact as i could without pcba
 man still error not fixed schematic done its connected but somehow pchb isnt getting chaNGED maybeil have to reroute
 
 there were 3 routings betwween pin 17 31 of esp anf button and dac allmwere connected in pcb despite cghanges in schenatic routing didnt help re routed and al errors gone will check netlist again
+finally no errpor ![image](https://github.com/user-attachments/assets/f836d2bf-5a07-404c-aa7f-ebb2cdaec4f6)
+![image](https://github.com/user-attachments/assets/8c8469ef-5846-4b52-8162-b47fc44c7cd6)
+![image](https://github.com/user-attachments/assets/73ecd475-fd0d-4ef0-a443-456c43924172)
+![image](https://github.com/user-attachments/assets/3a98591a-80e5-41ec-9471-46cb330a0807)
+
+
+
+
 
 
 
