@@ -1,21 +1,20 @@
-No.,Quantity,Item Name,Designator,Footprint,Part Number / Value,Manufacturer,Supplier,Price (INR),Price (USD),Status,Link,SUM
----,---,---,---,---,---,---,---,---,---,---,---,---
-1,1,IDUINO ESP32-DevKitC ESP32-WROOM-32U Core Board,,,,,Amazon.in,900,10.43,need to be bought,https://www.amazon.in/IDUINO-ESP32-DevKitC-Development-ESP32-WROOM-32D-ESP32-WROOM-32U-38/dp/B0CD71SK15/ref=sr_1_27?dib=eyJ2IjoiMSJ9.m-FSJN3Ni4eJz-atEqsL3h0HXTMhL_8qJPSVm32PL0UKQmSc0e61Q3vxK_OhYi3aDu7KocckXeHZGC4MtMaxQ_xyZ8Go1n7nwlF40zZxFzMU7wz3ad16r00yrBEnHPbv9p5BJmHSZeNGegTkqdbw2o32gQVKgbes2Yh5VoE5heSB-3h4ln_WI90r22UG0HsCKhO0YGm_tJULTxMM1vfzEpOF_rxOyNd24bgKzaXQoye6fDzv3Kn9fMDVnNIf9YZXxf539h8jxKCOmKpYRsqX5bVv98gp2jNGrQ_0VSJIi3MY.Qq_b_EGoctnsWvmpd_ZIYNsLRz77JdRexVl7Etfdwa4&dib_tag=se&keywords=esp32+devkit&qid=1749965099&sr=8-27,
-2,1,Flipper Zero,U4,,FLIPPER ZERO,Flipper Devices,Fab.to.Lab,30744,356.46,Owned by me,https://www.fabtolab.com/flipper-zero-flipperzero,
-3,1,Micro Sd Card Reader Module With SPI Interface For Arduino,U5,,,,Hubtronics,38,0.44,need to be bought,https://hubtronics.in/index.php?route=product/search&search=Micro%20Sd%20Card%20Reader%20Module%20With%20SPI%20Interface%20For%20Arduino,
-4,1,CC1101 SMA Antenna Wireless Transceiver Module,,,,,Flyrobo,500,5.8,need to be bought,https://www.flyrobo.in/cc1101-sma-antenna-wireless-transceiver-module?tracking=ads&tracking=5a0a0a&gad_source=1&gad_campaignid=17418069736&gbraid=0AAAAAC6AkE-wdTnQqhF9U9f4dOgU-kHkT&gclid=Cj0KCQjwu7TCBhCYARIsAM_S3Ni17Lu09LgznJIy8yTReg53ndcjoh9YYS4WttmEJLGIj-AQeDT2y5saAnyFEALw_wcB,
-5,1,NRF24L01 2.4GHz PA+LNA SMA Wireless Transceiver Module With Antenna,,,,,Hubtronics,324,3.76,need to be bought,https://hubtronics.in/nrf24l01-wireless-module,
-6,1,"Female Header 40x2 Connector, 2.54mm Pitch, 10mm Height",,,,,Hubtronics,36,0.42,need to be bought,https://hubtronics.in/40x2-female-header-2.54mm?search=header%20male,
-7,2,Male Break Away Header - Right Angle - 1x40 - 2.54mm Spacing - Golden Finish,,,,,Hubtronics,14,0.16,need to be bought,https://hubtronics.in/1x40-male-header-right-angle-golden-finish,
-8,2,"Female Header 40x1 Connector, 2.54mm Pitch, 10mm Height",,,,,Hubtronics,35.4,0.41,need to be bought,https://hubtronics.in/1394?search=female%20header,
-9,1,PCB,,,,,jlc,,13.5,copun would decrerase this,https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=ef3cd94761ab4b419dac6175c2694310&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&spm=Jlcpcb.Partcart.1002,
-10,1,GPS NEO-6M Satellite Positioning Module Development Board for Arduino STM32 51,,,,,,620,7.19,need to be bought,,
-11,1,"Compatible Antenna for Raspberry Pi Compute Module 4 CM4, 2.4G/5G WiFi",,,,,Hubtronics,250,2.9,need to be bought,https://hubtronics.in/ord-cm4-antenna?search=antenna&page=2,
-12,1,NEO-6M GPS Module with Micro USB Interface,,,,,Amazon.in,585,6.78,need to be bought,https://www.amazon.in/NEO-6M-GPS-Module-Micro-Interface/dp/B0C1V93ZC8/ref=sr_1_10?dib=eyJ2IjoiMSJ9.zItRoKvjpiifafdrnMZRVpQ49ijFhJGbHgZDmAKr_x_MZRwQGvwmX5XQv53-5Sxi9cpiFjWKoZi2cKjEEJ0fL9Eb6X8SPSK8o0Il-DPAeBVsHecJiuXfGKOtAck4NQFkiZNxs0EM-wPlOU1vCTSmAojXU9yUepCj3j5s2dm9Rq8nHxKSEgxNWgNWaUJKld95ntgOj7KsI00cq_QC969HDwkX73d6BDrxO2MNWFX528_xrGsP2tYT-NMMNLeYlEX6tef2AUKSZidjdKoWj71oHl3KWifNtF5hO7Ow_Q_0Wwu0.xV913jeLSrUjgaHY-kr_JzvRQgXAFW_muwaqDhzHOJo&dib_tag=se&keywords=neo%2B6m%2Bgps%2Bmodule&qid=1749967688&sr=8-10&th=1,
-13,1,Three Way Slide Switch - SPDT - Center Off,"SW1,SW2,SW3,F1",,,,Hubtronics,28.32,0.33,need to be bought,https://hubtronics.in/mss22d18-slide-switch,
-14,1,SanDisk Ultra 32GB Class10 Micro SD Card,,,,,Hubtronics,449,5.21,need to be bought,https://hubtronics.in/32gb-calss10-micro-sd-card-sandisk?search=sd%20card,
-15,1,,,,,,Hubtronics,65,1,,http://hubtronics.in/2dbi-gain-2.4ghz-wifi-antenna?gad_source=1&gad_campaignid=17419618963&gbraid=0AAAAAD07y2eWazfZfYDvEzDpMQN6jxFq5&gclid=Cj0KCQjwu7TCBhCYARIsAM_S3NgJYON3gURnyVqr7SKq4genczHn0vMRu6ib54CAp0hCNe-7eAFY7iwaAoScEALw_wcB,
-,,,,,,,,,total,,,
-,,,,,,,,"₹4,312.66 ",54,,,
-,,,,,,,,,price should decerease if jlc coups applied,,,
-,,,,,,,,,coulndnt get heat inserts for cheap its like it costs .3 dollars and shipping is 2 dollars,,,
+No.,Item,Source,Qty,Unit ₹,Subtotal ₹,USD ($),Link
+1,ESP32‑DevKitC‑32UE (4MB),Amazon,1,649,649,7.82,https://www.amazon.in/dp/B0CD71SK15
+2,Flipper Zero,Owned,1,-,-,-,Already owned
+3,Micro SD Card Reader,Import Dukan,1,33,33,0.40,https://www.importdukan.com/micro-sd-card-reader-module-for-arduino
+4,CC1101 SMA Wireless Module,Import Dukan,1,419,419,5.05,https://www.importdukan.com/cc1101-sma-antenna-wireless-transceiver-module
+5,NRF24L01 PA+LNA SMA Module,Import Dukan,2,113,226,2.72,https://www.importdukan.com/nrf24l01-2-4ghz-pa-lna-sma-wireless-transceiver-antenna
+6,Female Header 40×2,Import Dukan,3,16,48,0.58,https://www.importdukan.com/female-header-burg-strip-40x2-pin
+7,Male Right-Angle Header 40,Import Dukan,5,8,40,0.48,https://www.importdukan.com/40-pin-male-header-right-angle
+8,Female Header 40×1,Import Dukan,5,7,35,0.42,https://www.importdukan.com/2-54mm-pitch-female-burg-strip-40-pin
+9,Male Header 40 Breakable,Import Dukan,3,6,18,0.22,https://www.importdukan.com/40-pin-male-header-connector-strip-breakable
+10,Toggle Switch SPDT (SS12D00G3),Import Dukan,5,3,15,0.18,https://www.importdukan.com/3mm-ss12d00g3-3pin-toggle-switch
+11,Ublox NEO‑6M GPS w/ EPROM,Import Dukan,1,196,196,2.36,https://www.importdukan.com/ublox-neo-6m-gps-module-with-eprom
+12,CM4 Compatible Wi-Fi Antenna,Robocraze,1,200,200,2.41,https://robocraze.com/products/2-4g-5g-antenna-cm4
+13,32GB SanDisk Ultra Micro SD Card,Amazon,1,449,449,5.41,https://www.amazon.in/dp/B0C1V93ZC8
+14,2.4GHz Wi-Fi Antenna (2dBi),Amazon,1,65,65,0.78,https://www.amazon.in/dp/B085M8WQX8
+15,Screws (all types merged),Import Dukan,-,-,84,1.01,https://www.importdukan.com/search?search=screw
+16,PCB (custom),JLCPCB,1,1100,1100,13.25,https://jlcpcb.com
+17,3D Printing,Local,-,500,500,6.02,Local or online print service
+,,,
+,,Grand Total (₹),4355,52.5,
