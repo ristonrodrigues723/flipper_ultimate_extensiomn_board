@@ -87,7 +87,7 @@ for time i put less hrs in bard cause i though reviews wont believe it that i sp
 
 also pitch change will be needed o be doenin the pcb when real parts arrive.
 
-
+managed to save a lot of mone by finding alternate vendors biggest prblm - thr jlc cupons didnt work so full 13 were wasted on pcb, just 3d printing remains if that can be clubbed all money can be returned
 
 
 
