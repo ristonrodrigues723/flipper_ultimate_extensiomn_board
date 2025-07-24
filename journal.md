@@ -89,6 +89,8 @@ also pitch change will be needed o be doenin the pcb when real parts arrive.
 
 managed to save a lot of mone by finding alternate vendors biggest prblm - thr jlc cupons didnt work so full 13 were wasted on pcb, just 3d printing remains if that can be clubbed all money can be returned
 
+bad thing jlc cupon didnt work , so money cpould nt be saved, most bom was changed its all still under budhget hubtronics stopped hc so i had to use import dukan, its cheaper but has a mqq still the rate is cgheaper alltogether and im still 7 dollard under budget earlier it was 50, now i got all components pcb stilk have 7 lkeft taht6 can be saved if i combine my 3d printing with other highway projects
+
 
 
 
